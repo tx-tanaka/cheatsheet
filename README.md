@@ -2,8 +2,14 @@
 
 
 
+Using Git & GitHub in VSCode: Stage, Commit, and Push
+https://www.youtube.com/watch?v=z5jZ9lrSpqk&list=PL30AETbxgR-fiCTXm4o-uDnngyIie3Wf5
 
+How To Push Code To GitHub From VSCode Using Terminal
+https://www.youtube.com/watch?v=HX2CRPUVjMU
 
+Git clone
+C:\Users\tanaka16\Documents\Git>git clone https://github.com/thingamabob2038/blind-DCT.git
 
 Virtual environment
 https://www.youtube.com/watch?v=yG9kmBQAtW4&t=360s
